@@ -1,0 +1,4 @@
+eth.accounts
+eth.accounts[0]
+geth --datadir storedData account new
+eth.accounts[0]
